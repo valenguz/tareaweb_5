@@ -1,0 +1,2 @@
+export const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVndXV4YW9yZHBzdGF5bm1uaXBlIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1NzU0NTY2NywiZXhwIjoyMDczMTIxNjY3fQ.PlykIOD0Uq_Znj10SGcfEkkcVT0w7NGtj3e8yhWdR6g';
+export const SUPABASE_URL = 'https://uguuxaordpstaynmnipe.supabase.co';
